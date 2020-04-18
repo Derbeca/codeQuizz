@@ -1,8 +1,15 @@
 </main>
     <footer>
-        <a href="" id="btn-accueil"></a>
-        <a href="" id="btn-score"></a>
-        <a href="" id="btn-login"></a>
+        <div class="ombreExt btn">
+            <a href="index.php" id="btn-accueil"><img src="assets/svg/icon_accueil.svg"></a>
+        </div>
+        <div class="ombreExt btn">
+            <a href="score.php" id="btn-accueil"><img src="assets/svg/icon_score.svg"></a>
+        </div>
+        <div class="ombreExt btn">
+            <a href="login.php" id="btn-accueil"><img src="assets/svg/icon_login.svg"></a>
+        </div>
+
     </footer>
     <script src="assets/js/main.js"></script>
 </body>

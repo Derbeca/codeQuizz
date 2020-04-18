@@ -8,10 +8,12 @@
 </head>
 <body>
     <header>
-        <a href="" id="logo"><img src=""></a>
-        <div id="menu">
-            <img src="" id="btn-menu">
-            <ul>
+        <a href="index.php" id="logo"><img src="assets/svg/logo_codequizz.svg"></a>
+        <div>
+            <div class="ombreExt btn">
+                <img src="assets/svg/icon_menu.svg" >
+            </div>
+            <ul id="menu">
                 <li><a href=""></a></li>
                 <li><a href=""></a></li>
                 <li><a href=""></a></li>
