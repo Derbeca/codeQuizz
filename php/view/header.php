@@ -10,14 +10,17 @@
     <header>
         <a href="index.php" id="logo"><img src="assets/svg/logo_codequizz.svg"></a>
         <div>
-            <div class="ombreExt btn">
+            <div class="ombreExt btn" id="btn_menu">
                 <img src="assets/svg/icon_menu.svg" >
             </div>
-            <ul id="menu">
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-            </ul>
+            <div id="menu" class="animated menu"> 
+                <ul>
+                    <li><a href="accueil.php">ACCUEIL</a></li>
+                    <li><a href="info.php">+ INFO</a></li>
+                    <li><a href="contact.php">CONTACT</a></li>
+                </ul>
+                <img src="assets/svg/icon_fermer.svg" id="btn_fermer">
+            </div>
         </div>
     </header>
     <main>

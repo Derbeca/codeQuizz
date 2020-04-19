@@ -1,7 +1,7 @@
 </main>
     <footer>
         <div class="ombreExt btn">
-            <a href="index.php" id="btn-accueil"><img src="assets/svg/icon_accueil.svg"></a>
+            <a href="accueil.php" id="btn-accueil"><img src="assets/svg/icon_accueil.svg"></a>
         </div>
         <div class="ombreExt btn">
             <a href="score.php" id="btn-accueil"><img src="assets/svg/icon_score.svg"></a>

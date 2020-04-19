@@ -1,0 +1,32 @@
+body {
+    background-color: #3BB449;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+a img {
+    width: 100%;
+}
+.ombreExt {
+    box-shadow:  4px 4px 6px 0 rgba(0, 0, 0, 0.2),
+                -4px -4px 6px 0 rgba(255, 255, 255, 0.4);
+}
+.box {
+    margin: 200px auto 30px;
+    background-color: #3BB449;
+    border-radius: 6px;
+    width: 70%;
+    height: auto;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: white;
+    font-size: 6vmin;
+}
