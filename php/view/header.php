@@ -16,7 +16,7 @@
             <div id="menu" class="animated menu"> 
                 <ul>
                     <li><a href="accueil.php">ACCUEIL</a></li>
-                    <li><a href="info.php">+ INFO</a></li>
+                    <li><a href="infos.php">+ INFO</a></li>
                     <li><a href="contact.php">CONTACT</a></li>
                 </ul>
                 <img src="assets/svg/icon_fermer.svg" id="btn_fermer">
